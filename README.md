@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yossy</h1>
-<h3 align="center">A Frontend Developer with experience in coding design, specializing in JavaScript, TypeScript, ReactJS, React Native, and CSS frameworks to create engaging and intuitive digital experiences. I focus on building user-friendly interfaces that balance both aesthetic appeal and functionality.</h3>
+<h3 align="center">A Frontend Developer with experience in coding and design. Specializing in JavaScript, TypeScript, ReactJS, React Native, and CSS frameworks to create engaging and intuitive digital experiences. I focus on building user-friendly interfaces that balance both aesthetic appeal and functionality.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yossyadirta&label=Profile%20views&color=0e75b6&style=flat" alt="yossyadirta" /> </p>
 
