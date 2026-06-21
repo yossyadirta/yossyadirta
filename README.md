@@ -1,13 +1,3 @@
-<div align="center">
-  <h1>Hi there, I'm Yossy Adirta! 👋</h1>
-  <h3>Frontend Developer | Based in Indonesia 🇮🇩</h3>
-  <p>
-    <em>Crafting creative web experiences with precision and motion</em>
-  </p>
-</div>
-
----
-
 ### 👨‍💻 About Me
 
 I am deeply passionate about crafting interactive web experiences that seamlessly blend precise engineering with motion design. By leveraging tools like **GSAP** and **Three.js**, I focus on building digital products that go beyond static interfaces. 
