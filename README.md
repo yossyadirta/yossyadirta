@@ -21,8 +21,3 @@ I'm always open to discussing new opportunities, creative coding, or anything fr
 - 🌐 **Portfolio:** [yossyadirta.com](https://www.yossyadirta.com)
 - 💼 **LinkedIn:** [in/yossyadirta](https://www.linkedin.com/in/yossyadirta/)
 - 💻 **CodePen:** [yossyadirta](https://codepen.io/yossyadirta)
-
----
-<div align="center">
-  <em>"Crafting interfaces that are refined, thoughtful, and quietly alive."</em>
-</div>
